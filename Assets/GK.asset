@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a028c013c5e469049a21a547280a22a3, type: 3}
+  m_Name: GK
+  m_EditorClassIdentifier: 
+  category: 
+  questions:
+  - questionText: 'Which Flag is this:'
+    replies:
+    - Saudi Arabia
+    - Netherland
+    - America
+    - Australia
+    - Romania
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: e5b22adb7fb7d754c8a42cd77f6f8a0b, type: 3}
+  - questionText: 'Which Flag is this:'
+    replies:
+    - America
+    - Europe
+    - Australia
+    - Japan
+    - Oman
+    correctReplyIndex: 3
+    questionImage: {fileID: 21300000, guid: 3e0653781985e2f46ac6c004ae6fed13, type: 3}
+  - questionText: 'Which Flag is this:'
+    replies:
+    - Portugal
+    - Asia
+    - Korea
+    - America
+    - NZ
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: 2c61ba101e968b4419db5ea0112ebefe, type: 3}
+  - questionText: 'Which Flag is this:'
+    replies:
+    - New Zealand
+    - Asia
+    - Korea
+    - Europe
+    - Zimbabwe
+    correctReplyIndex: 0
+    questionImage: {fileID: 21300000, guid: c3a6072e1c352a441807b9945620a517, type: 3}
+  - questionText: 'Which Flag is this:'
+    replies:
+    - America
+    - Asia
+    - Korea
+    - Europe
+    - India
+    correctReplyIndex: 4
+    questionImage: {fileID: 21300000, guid: b91ec66adbde56a49b82039160eaaf5c, type: 3}
